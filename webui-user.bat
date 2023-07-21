@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=
+set COMMANDLINE_ARGS=--xformers --opt-split-attention --no-half-vae --api --always-batch-cond-uncond
 
 call webui.bat
