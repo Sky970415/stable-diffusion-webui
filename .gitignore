@@ -32,8 +32,17 @@ notification.mp3
 /extensions
 /test/stdout.txt
 /test/stderr.txt
+<<<<<<< Updated upstream
 /cache.json*
 /config_states/
 /node_modules
 /package-lock.json
 /.coverage*
+=======
+/cache.json
+webui-user.bat
+>>>>>>> Stashed changes
+webui-user.bat
+Administrator - Shortcut.lnk
+webui-user.bat
+Administrator - Shortcut.lnk
