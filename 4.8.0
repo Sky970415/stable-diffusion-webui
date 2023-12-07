@@ -1,0 +1,11 @@
+Looking in indexes: https://pypi.python.org/simple
+Requirement already satisfied: opencv-python in c:\users\administrator\documents\stable-diffusion-webui\venv\lib\site-packages (4.7.0.72)
+Collecting opencv-python
+  Using cached opencv_python-4.8.1.78-cp37-abi3-win_amd64.whl (38.1 MB)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\administrator\documents\stable-diffusion-webui\venv\lib\site-packages (from opencv-python) (1.23.5)
+Installing collected packages: opencv-python
+  Attempting uninstall: opencv-python
+    Found existing installation: opencv-python 4.7.0.72
+    Uninstalling opencv-python-4.7.0.72:
+      Successfully uninstalled opencv-python-4.7.0.72
+Successfully installed opencv-python-4.8.1.78
